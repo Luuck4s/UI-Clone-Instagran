@@ -4,7 +4,7 @@ Aplicação feita para melhor conhecimento de componentes internos do [React Nat
 
 >Preview
 
-![animated ](https://github.com/Luuck4s/UI-Clone-Instragran/blob/master/src/assets/video-demonstracao.gif?raw=true)
+![animated ](https://github.com/Luuck4s/UI-Clone-Instagran/blob/master/src/assets/video-demonstracao.gif?raw=true)
 
 
 # Instruções para utilização  :hammer:
